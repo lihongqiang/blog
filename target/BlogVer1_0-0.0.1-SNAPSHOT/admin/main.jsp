@@ -56,6 +56,6 @@
     <div class="Cal"></div>
   </div>
 </div>
-<div id="Bottom">版权所有 <a href="#" target="_blank">宋文</a></div>
+
 </body>
 </html>

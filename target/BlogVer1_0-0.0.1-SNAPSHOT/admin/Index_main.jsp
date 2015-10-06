@@ -11,19 +11,19 @@
     <table width="100%" cellpadding="0" class="Table1" bordercolor="#4ab902" border="1" cellspacing="0">
         <tr>
           <td height="25" align="right">官方网站：</td>
-          <td>http://www.kengni.cn</td>
+          <td>暂无</td>
         </tr>
         <tr>
           <td height="25" align="right">技术支持：</td>
-          <td>QQ:164113670 MAIL:164113670@qq.com</td>
+          <td>MAIL:415200973@qq.com</td>
         </tr>
         <tr>
           <td height="25" align="right">版权所有：</td>
-          <td>宋文</td>
+          <td>lhq</td>
         </tr>
         <tr>
           <td height="25" align="right">版权说明：</td>
-          <td>宋文免费授权使用本系统，但不可将本系统用于销售用途！</td>
+          <td>免费授权使用本系统，但不可将本系统用于销售用途！</td>
         </tr>
       </table>
   </body>

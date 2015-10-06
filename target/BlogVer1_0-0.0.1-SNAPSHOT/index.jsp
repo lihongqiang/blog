@@ -20,7 +20,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>玫瑰博客</title>
+<title>博客</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
@@ -29,7 +29,7 @@
 <div id="wrapper">
 <!-- start header -->
 <div id="header">
-	<h1>玫瑰博客 </h1>
+	<h1>个人博客 </h1>
 	<p>Red Roses Blog</p>
 </div>
 <!-- end header -->
@@ -40,10 +40,10 @@
 	<div id="content">
 		<div class="post">
 			<h1 class="title">关于本站</h1>
-			<p class="byline"><small>Posted on Jan 9th, 2011 by <a href="#">宋文</a> | <a href="#">Edit</a></small></p>
+			<p class="byline"><small>Posted on October 6th, 2015 by <a href="#">lhq</a> | <a href="#">Edit</a></small></p>
 			<div class="entry">
 				<p> 
-				   博客的标题的得来还是很想了一下，在想的过程中，看自己想的也太多，所以何不简单一点呢？就叫简单生活好了。诚然我们在生活中过的也太复杂，太辛苦，所以在网络上简单一点也好，尽管可能被人骂，被人看不起。如果有人觉得我的博客不好，但愿也只有指教而不是漫骂。
+				   这是第一个的博客，不知道说什么，先这样吧。
                 </p>
 			</div>
 			<p class="meta"><a href="list_article.jsp" class="more">最新文章列表</a> </p>

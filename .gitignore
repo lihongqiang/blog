@@ -1,5 +1,3 @@
 target/*
-
-
-*.bac
-*.*.bac
+*.bak
+*.*.bak
