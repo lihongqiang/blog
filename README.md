@@ -1,16 +1,16 @@
-# ÕâÊÇÒ»¸ö¼òµ¥µÄblog
-ÒÑ²âÊÔÔËĞĞ»·¾³
-MyEclipse for Spring 2014       ps:Ê¹ÓÃeclipse´ò¿ª»áÓĞbug
+# è¿™æ˜¯ä¸€ä¸ªç®€å•çš„blog
+å·²æµ‹è¯•è¿è¡Œç¯å¢ƒ
+MyEclipse for Spring 2014    
 JDK 1.7
 tomact 5.0 
 MySQL 5.5
 maven 3.3
 
-Êı¾İ¿âÃû³Æ£ºblogver1
-ÓÃ»§Ãû¼°ÃÜÂë£º¼ûsrc/main/java/com.blog.tools/db.propertiesÎÄ¼ş
-Êı¾İ¿â½Å±¾: src/main/resources/createDB.sql
+æ•°æ®åº“åç§°ï¼šblogver1
+ç”¨æˆ·ååŠå¯†ç ï¼šè§src/main/java/com.blog.tools/db.propertiesæ–‡ä»¶
+æ•°æ®åº“è„šæœ¬: src/main/resources/createDB.sql
 
-Êä³öÎÄ¼ş£º
-target/BlogVer1_0-0.0.1-SNAPSHOT.war  ÔÚtomcatÉÏ²¿ÊğÊ±£¬ĞèÒª±£Ö¤½âÑ¹ºóµÄÃû³ÆÎªBlogVer1_0
+è¾“å‡ºæ–‡ä»¶ï¼š
+target/BlogVer1_0-0.0.1-SNAPSHOT.war  åœ¨tomcatä¸Šéƒ¨ç½²æ—¶ï¼Œéœ€è¦ä¿è¯è§£å‹åçš„åç§°ä¸ºBlogVer1_0
 
-¹ØÓÚ¸÷ÖÖdependencyµÄ¸ñÊ½£¬¼ûÍøÖ·http://repo1.maven.org/maven2/
+å…³äºå„ç§dependencyçš„æ ¼å¼ï¼Œè§ç½‘å€http://repo1.maven.org/maven2/
